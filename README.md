@@ -52,8 +52,7 @@ Telegram Channels utilized in this Project:
 
 | Telegram Channels | Telegram Channels | Telegram Channels | Telegram Channels |
 | -------- | -------- | -------- | -------- |
-|[POLPROXY](https://t.me/polproxy) |
-[V2rayNGn](https://t.me/V2rayNGn) | [free4allVPN](https://t.me/free4allVPN) | [PrivateVPNs](https://t.me/PrivateVPNs) | [V2rayng_Fast](https://t.me/V2rayng_Fast) |
+|[POLPROXY](https://t.me/polproxy) |[V2rayNGn](https://t.me/V2rayNGn) | [free4allVPN](https://t.me/free4allVPN) | [PrivateVPNs](https://t.me/PrivateVPNs) | [V2rayng_Fast](https://t.me/V2rayng_Fast) |
 | [DirectVPN](https://t.me/DirectVPN) | [ProxyFn](https://t.me/ProxyFn) | [v2ray_outlineir](https://t.me/v2ray_outlineir) | [v2ray_swhil](https://t.me/v2ray_swhil) |
 | [NetAccount](https://t.me/NetAccount) | [oneclickvpnkeys](https://t.me/oneclickvpnkeys) | [daorzadannet](https://t.me/daorzadannet) | [LoRd_uL4mo](https://t.me/LoRd_uL4mo) |
 | [Outline_Vpn](https://t.me/Outline_Vpn) | [vpn_xw](https://t.me/vpn_xw) | [prrofile_purple](https://t.me/prrofile_purple) | [proxyymeliii](https://t.me/proxyymeliii) |
